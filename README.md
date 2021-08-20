@@ -1,3 +1,3 @@
 # banana-os
 
-# this project is a python os 
+this is a project made in assembly, c and python
